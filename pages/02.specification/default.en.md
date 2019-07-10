@@ -20,4 +20,4 @@ title: 'Specification'
 
 | I/O & buttons | Description |
 |--|--|
-|![](assets/cap_connector.png)| 1. Wifi hotspot led indicator<br />2. Power LED indicator<br />3. Power button (4s start, 1s stop)<br />4. I/O cabnit<br />5. DC LED indicator<br />6. DC power jack<br />7. RJ45 LAN port<br />8. Not in use<br />9. USB 3.0 port<br /> |
+|![](cap_connector.png)| 1. Wifi hotspot led indicator<br />2. Power LED indicator<br />3. Power button (4s start, 1s stop)<br />4. I/O cabnit<br />5. DC LED indicator<br />6. DC power jack<br />7. RJ45 LAN port<br />8. Not in use<br />9. USB 3.0 port<br /> |

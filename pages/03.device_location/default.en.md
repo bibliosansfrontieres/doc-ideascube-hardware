@@ -2,7 +2,7 @@
 title: 'Location'
 ---
 
-![](assets/KB4029-001_EN_v4.png)
+![](KB4029-001_EN_v4.png)
 *This picture illustrate and show how the Ideascube location is important.* 
 
 * Users in the **green zone** will get most of the signal strength and throughput

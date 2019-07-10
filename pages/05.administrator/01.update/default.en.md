@@ -7,4 +7,4 @@ An update of each application and content if available can be perform remotely.
 2. Press power button 3 for 4 seconds
 3. Update process will be performed automatically
 
-![](assets/cap_connector.png)
+![](cap_connector.png)
