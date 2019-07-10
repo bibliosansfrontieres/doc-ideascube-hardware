@@ -15,3 +15,7 @@ title: 'Hardware specification'
 | Operating System | Ubuntu 14.04 |
 | Power supply | 100 - 240V, 24W |
 | Ruggedness | Drop test 70cm (power off), IP54 |
+
+| I/O & buttons | Description |
+|--|--|
+|![](assets/cap_connector.png)| 1. Wifi hotspot led indicator<br />2. Power LED indicator<br />3. Power button<br />4. I/O cabnit<br />5. DC LED indicator<br />6. DC power jack<br />7. RJ45 LAN port<br />8. Not in use<br />9. USB 3.0 port<br /> |
