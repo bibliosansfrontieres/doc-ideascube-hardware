@@ -4,7 +4,7 @@ title: 'Hardware reset'
 
 I can be useful to reset the device if the operating system does not work as expected.
 
-Theire is two ways to reset the device : soft reset and hard reset
+Two method are available to reset the device : soft reset and hard reset
 
 ## Soft reset
 The [following bash script](https://github.com/bibliosansfrontieres/ideascube-deploy/raw/master/reset.sh) reset "softly" the device. This script can not fix any damaged operating system.
@@ -14,7 +14,7 @@ The [following bash script](https://github.com/bibliosansfrontieres/ideascube-de
 3. stop & disable & remove VPN
 4. stop & disable & remove Balena Engine
 5. umount & format the external hard drive
-6. finaly reboot the device
+6. finally reboot the device
 
 It must be executed this way :
 ```
