@@ -1,5 +1,5 @@
 ---
-title: 'Hardware reset'
+title: 'Soft & Hard reset'
 ---
 
 I can be useful to reset the device if the operating system does not work as expected.

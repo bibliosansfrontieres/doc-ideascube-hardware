@@ -1,5 +1,5 @@
 ---
-title: 'Ideascube update'
+title: 'Update Apps & Content'
 ---
 An update of each application and content if available can be perform remotely.
 

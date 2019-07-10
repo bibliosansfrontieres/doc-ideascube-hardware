@@ -1,5 +1,5 @@
 ---
-title: 'Ideascube location preconisation'
+title: 'Location'
 ---
 
 ![](assets/KB4029-001_EN_v4.png)

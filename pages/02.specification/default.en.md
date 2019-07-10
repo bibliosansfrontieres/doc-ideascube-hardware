@@ -1,5 +1,5 @@
 ---
-title: 'Hardware specification'
+title: 'Specification'
 ---
 
 | Parts | Caracteristic |
