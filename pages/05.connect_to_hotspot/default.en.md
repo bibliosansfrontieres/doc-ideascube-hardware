@@ -4,7 +4,7 @@ title: 'Connect to the wifi hotspot'
 
 ## Android
 
-> > > > Recent Android smartphone (only smartphone) try to **always** be connected to a network providing Internet access. If the network they are connected on does not provide any Internet access they will **automatically switch back over data connexion** (2G/3G/4G Internet connexion). The user will have then **great difficulties to stay connected** on the Ideascube wifi hotspot. In that case, **please disable the data connexion** before connecting to the Ideascube wifi hotspot
+> > > > Recent Android smartphone (only smartphone) will try to **always stay connected** to a network providing Internet access. If the network they are connected on does not provide any Internet access they will **automatically switch back over data connexion** (2G/3G/4G Internet connexion). The user will have then **great difficulties to stay connected** on the Ideascube wifi hotspot. In that case, **please disable the data connexion** before connecting to the Ideascube wifi hotspot
 
 ### Turn on & connect
 
@@ -23,7 +23,7 @@ title: 'Connect to the wifi hotspot'
 
 For faster connexion you can flash these QR Code. 
 
-> > > > You can download [Barcode Scanner app](https://f-droid.org/repo/com.google.zxing.client.android_108.apk) to flash these QR Code. [Details of the app](https://f-droid.org/fr/packages/com.google.zxing.client.android/)
+> > > > > You can download [Barcode Scanner app](https://f-droid.org/repo/com.google.zxing.client.android_108.apk) to flash these QR Code. [Details of the app](https://f-droid.org/fr/packages/com.google.zxing.client.android/)
 
 ![](assets/ideasbox.png) http://ideasbox
 
