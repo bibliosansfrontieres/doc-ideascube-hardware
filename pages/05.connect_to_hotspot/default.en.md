@@ -25,9 +25,11 @@ For faster connexion you can flash these QR Code.
 
 > > > > > You can download [Barcode Scanner app](https://f-droid.org/repo/com.google.zxing.client.android_108.apk) to flash these QR Code. [Details of the app](https://f-droid.org/fr/packages/com.google.zxing.client.android/)
 
-![](assets/ideasbox.png) http://ideasbox
+http://ideasbox
+![](assets/ideasbox.png) 
 
-![](assets/ideascube.png) http://ideascube
+http://ideascube
+![](assets/ideascube.png)
 
 ## Windows 
 
