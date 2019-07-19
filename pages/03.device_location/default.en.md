@@ -6,7 +6,9 @@ title: 'Location'
 *This picture illustrate and show how the Ideascube location is important.* 
 
 > > > > * Ideascube must be positioned vertically with it mounting plate provided in the package. The front part (white one) must be pointed in direction of the users
+
 > > > > * Do not place the device in a metal box. Wifi signal will be significantly degraded
+
 > > > > * Dot not place the device behind a wall
 
 * Users in the **green zone** will get most of the signal strength and throughput.
