@@ -1,1 +1,1 @@
-# doc-ideascube-hardware
+# Ideascube Hardware documentation
