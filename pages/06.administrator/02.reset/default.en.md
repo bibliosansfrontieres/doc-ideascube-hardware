@@ -16,7 +16,7 @@ The [following bash script](https://github.com/bibliosansfrontieres/ideascube-de
 5. umount & format the external hard drive
 6. finally reboot the device
 
-It must be executed this way :
+It must be executed, **as root**, this way :
 ```
 curl -sfL https://github.com/bibliosansfrontieres/ideascube-deploy/raw/master/reset.sh | bash
 ```
