@@ -14,7 +14,7 @@ title: 'Connect to the wifi hotspot'
 4. Tap one of the wifi network available idc-xxx-xxx-xxx-2.4Ghz or idc-xxx-xxx-xxx-5Ghz
 5. Once connected the captive portal will redirect you towards the Ideascube software landing page.
 6. If for any reason this page close, open your favorite web browser
-   * In the URL bar : write down http://ideascube or http://ideasbox
+   * In the URL bar : write down http://ideascube, http://ideasbox or http://ideascube.io depending on your device
    * Click the star to save the URL as favorite for future connexion
 
 **Tip:** You can also swipe down on your screen to get to Wi-Fi settings
