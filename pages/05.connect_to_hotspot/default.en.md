@@ -28,8 +28,8 @@ For faster connexion you can flash these QR Code.
 http://ideasbox
 ![](assets/ideasbox.png) 
 
-http://ideascube
-![](assets/ideascube.png)
+http://ideascube.io
+
 
 ## Windows 
 
