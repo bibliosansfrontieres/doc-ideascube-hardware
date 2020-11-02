@@ -1,5 +1,6 @@
 ---
 title: 'Connect to the wifi hotspot'
+media_order: qrcode-ideascubeio.png
 ---
 
 ## Android
@@ -29,7 +30,7 @@ http://ideasbox
 ![](assets/ideasbox.png) 
 
 http://ideascube.io
-
+![](qrcode-ideascubeio.png)
 
 ## Windows 
 
