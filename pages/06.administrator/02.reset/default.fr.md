@@ -1,5 +1,5 @@
 ---
-titre : "Soft & Hard reset".
+titre : "Soft & Hard reset"
 ---
 
 Il peut être utile de réinitialiser l'appareil à un moment donné (système d'exploitation qui ne fonctionne pas comme prévu)
