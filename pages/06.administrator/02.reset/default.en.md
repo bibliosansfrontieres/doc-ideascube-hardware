@@ -28,7 +28,7 @@ curl -sfL https://github.com/bibliosansfrontieres/ideascube-deploy/raw/master/re
 
 The following procedure perform a "hard" reset and will put the device back in a factory state **without** formating the external hard drive. **You'll have to do it manually if needed !**
 
-1. Download the [recovery image](http://drop.bsf-intranet.org/clonezilla-live-RC-RC02.8_silent.zip)
+1. Download the [recovery image](http://drop.bsf-intranet.org/clonezilla-live-RC-RC02.8_silent.zip) (~900MB)
 2. Unzip the file and place it at the root of an USB drive
 3. Plug the RECOVERY USB drive on the USB port of the device and power it
 4. The recovery will be progressed automatically and it will auto-shutdown when finish (LED indicator off)
