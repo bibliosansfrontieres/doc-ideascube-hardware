@@ -26,16 +26,42 @@ curl -sfL https://github.com/bibliosansfrontieres/ideascube-deploy/raw/master/re
 
 ## Hard reset
 
-The following procedure perform a "hard" reset and will put the device back in a factory state **without** formating the external hard drive. **You'll have to do it manually if needed !**
+The following procedure perform a "hard" reset and will put the device back in a factory state **without** formating the external hard drive. **You'll have to do it manually if needed!**
+
+### Prepare the USB key
 
 1. Download the [recovery image](http://drop.bsf-intranet.org/clonezilla-live-RC-RC02.8_silent.zip) (~900MB)
-2. Unzip the file and place it at the root of an USB drive
-3. Plug the RECOVERY USB drive on the USB port of the device and power it
-4. The recovery will be progressed automatically and it will auto-shutdown when finish (LED indicator off)
-5. Start the device and wait until the latter shutdown one more time
-6. Done ! You can power and use the device
+2. Unzip the file. You get a `clonezilla-live-RC-RC02.8/` directory, which in turn contains a few files and directories:
+
+```
+clonezilla-live-RC-RC02.8
+├── boot
+├── Clonezilla-Live-Version
+├── EFI
+├── GPL
+├── home
+├── live
+├── syslinux
+└── utils
+```
+3. Place **all of these subdirectories** at the root of an USB drive.
+
+When looking at the root of your USB key, you should only see these files and folders:
+
+`boot/ Clonezilla-Live-Version EFI/ GPL home/ live/ syslinux/ utils/`
+
+### Proceed to reset
+
+The device must be turned off.
+
+4. Plug the RECOVERY USB drive on the USB port of the device and power it
+5. The recovery will be processed automatically and the device will auto-shutdown when finished (LED indicator off)
+6. Start the device again and wait until the latter shutdown one more time
+7. Done! You can remove the USB key and use the device
 
 ### Format the HDD manually
+
+If you want to push the reset further and delete all installed contents/applications, you can format the external HDD:
 
 ```
 umount -A -l /dev/sda1
