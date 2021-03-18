@@ -6,7 +6,8 @@ It can be handy to reset the device at some point (operating system that does no
 
 Two method are available to reset the device : soft reset and hard reset
 
-## Soft reset
+## Soft reset
+
 The [following bash script](https://github.com/bibliosansfrontieres/ideascube-deploy/raw/master/reset.sh) reset "softly" the device. This script can not fix any damaged operating system.
 
 It will perform the following action : 
