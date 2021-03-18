@@ -7,7 +7,7 @@ Il peut être utile de réinitialiser l'appareil à un moment donné (système d
 Deux méthodes sont disponibles pour réinitialiser l'appareil : la réinitialisation software et la réinitialisation hardware.
 
 ## Réinitialisation douce
-Le [script bash suivant] (https://github.com/bibliosansfrontieres/ideascube-deploy/raw/master/reset.sh) réinitialise "en douceur" l'appareil. Ce script ne peut réparer aucun système d'exploitation endommagé.
+Le [script bash suivant](https://github.com/bibliosansfrontieres/ideascube-deploy/raw/master/reset.sh) réinitialise "en douceur" l'appareil. Ce script ne peut réparer aucun système d'exploitation endommagé.
 
 Il effectuera l'action suivante : 
 
@@ -27,7 +27,7 @@ curl -sfL https://github.com/bibliosansfrontieres/ideascube-deploy/raw/master/re
 
 La procédure suivante effectue une réinitialisation _hardware_ et remet l'appareil dans un état d'usine **sans** formater le disque dur externe. **vous devrez le faire manuellement en cas de besoin !**
 
-1. Téléchargez l'[image de récupération] (http://drop.bsf-intranet.org/clonezilla-live-RC-RC02.8_silent.zip)
+1. Téléchargez l'[image de récupération](http://drop.bsf-intranet.org/clonezilla-live-RC-RC02.8_silent.zip)
 2. Dézippez le fichier et placez-le à la racine d'une clé USB
 3. Branchez la clé USB sur le port USB de l'appareil et alimentez-la
 4. La récupération se déroulera automatiquement et s'arrêtera automatiquement à la fin (indicateur LED éteint)
