@@ -35,6 +35,7 @@ La procédure suivante effectue une réinitialisation _hardware_ et remet l'appa
 6. C'est terminé ! Vous pouvez alimenter et utiliser l'appareil
 
 ### Formater le disque dur manuellement
+
 ```
 umount -A -l /dev/sda1
 mkfs.ext4 -F /dev/sda1

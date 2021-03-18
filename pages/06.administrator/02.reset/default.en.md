@@ -24,7 +24,7 @@ It must be executed, **as root**, this way :
 curl -sfL https://github.com/bibliosansfrontieres/ideascube-deploy/raw/master/reset.sh | bash
 ```
 
-## Hard reset
+## Hard reset
 
 The following procedure perform a "hard" reset and will put the device back in a factory state **without** formating the external hard drive. **You'll have to do it manually if needed !**
 
@@ -35,7 +35,8 @@ The following procedure perform a "hard" reset and will put the device back in a
 5. Start the device and wait until the latter shutdown one more time
 6. Done ! You can power and use the device
 
-### Format the HDD manually
+### Format the HDD manually
+
 ```
 umount -A -l /dev/sda1
 mkfs.ext4 -F /dev/sda1
