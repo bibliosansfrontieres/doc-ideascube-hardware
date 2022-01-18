@@ -12,7 +12,7 @@ Le [script bash suivant](https://gitlab.com/bibliosansfrontieres/olip-bsf/cap/fa
 Il effectuera l'action suivante :
 
 * rétablissement de la configuration réseau d'usine
-* réinitialisation du mot de passe pour l'utilisateur "cap".
+* réinitialisation du mot de passe pour l'utilisateur `cap`.
 * arrêt & désactivation & suppression du VPN (optionnel)
 * suppression des clés SSH locales et des fichiers `authorized_keys` (optionnel)
 * arrêter, désactivation et suppression du moteur Balena (et les images Docker / conteneurs / réseaux / etc. qui y sont liés)
