@@ -9,11 +9,11 @@ Deux méthodes sont disponibles pour réinitialiser l'appareil : la réinitialis
 ## Réinitialisation douce
 Le [script bash suivant](https://gitlab.com/bibliosansfrontieres/olip-bsf/cap/factory-config/-/blob/master/reset.sh) réinitialise "en douceur" l'appareil. Ce script ne peut réparer aucun système d'exploitation endommagé.
 
-Il effectuera l'action suivante : 
+Il effectuera l'action suivante :
 
 * rétablissement de la configuration réseau d'usine
 * réinitialisation du mot de passe pour l'utilisateur "cap".
-* arrêt & désactivaion & suppression du VPN (optionnel)
+* arrêt & désactivation & suppression du VPN (optionnel)
 * suppression des clés SSH locales et des fichiers `authorized_keys` (optionnel)
 * arrêter, désactivation et suppression du moteur Balena (et les images Docker / conteneurs / réseaux / etc. qui y sont liés)
 * Montage et formatage du disque dur externe
