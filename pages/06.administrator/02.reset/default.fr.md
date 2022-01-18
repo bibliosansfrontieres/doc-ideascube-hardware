@@ -7,20 +7,20 @@ Il peut être utile de réinitialiser l'appareil à un moment donné (système d
 Deux méthodes sont disponibles pour réinitialiser l'appareil : la réinitialisation software et la réinitialisation hardware.
 
 ## Réinitialisation douce
-Le [script bash suivant](https://github.com/bibliosansfrontieres/ideascube-deploy/raw/master/reset.sh) réinitialise "en douceur" l'appareil. Ce script ne peut réparer aucun système d'exploitation endommagé.
+Le [script bash suivant](https://gitlab.com/bibliosansfrontieres/olip-bsf/cap/factory-config/-/blob/master/reset.sh) réinitialise "en douceur" l'appareil. Ce script ne peut réparer aucun système d'exploitation endommagé.
 
 Il effectuera l'action suivante : 
 
-1. rétablissement de la configuration réseau d'usine
-2. réinitialisation du mot de passe pour l'utilisateur "cap".
-3. arrêt & désactivaion & suppression du VPN
-4. arrêter, désactivation et suppression du moteur Balena (et les images Docker / conteneurs / réseaux / etc. qui y sont liés)
-5. Montage et formatage du disque dur externe
-6. enfin, redémarrage de l'appareil
+* rétablissement de la configuration réseau d'usine
+* réinitialisation du mot de passe pour l'utilisateur "cap".
+* arrêt & désactivaion & suppression du VPN (optionnel)
+* suppression des clés SSH locales et des fichiers `authorized_keys` (optionnel)
+* arrêter, désactivation et suppression du moteur Balena (et les images Docker / conteneurs / réseaux / etc. qui y sont liés)
+* Montage et formatage du disque dur externe
 
 Il doit être exécuté, **en root**, de cette façon :
 ```
-curl -sfL https://github.com/bibliosansfrontieres/ideascube-deploy/raw/master/reset.sh | bash
+curl -sfL https://gitlab.com/bibliosansfrontieres/olip-bsf/cap/factory-config/-/raw/master/reset.sh | bash
 ```
 
 ## Remise à zéro
