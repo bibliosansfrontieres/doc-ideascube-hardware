@@ -2,5 +2,8 @@
 title: 'Initialize a new device'
 ---
 
-Deployment process is explained at the [GitHub page](https://github.com/bibliosansfrontieres/ideascube-deploy/blob/master/README.md)
+The deployment process depends on the coosen sotfware stack:
+
+* [ideascube-the-software](https://github.com/bibliosansfrontieres/ideascube-deploy/blob/master/README.md) (deprecated)
+* [OLIP](http://bibliosansfrontieres.gitlab.io/olip/olip-documentation/olip/installation/)
 
