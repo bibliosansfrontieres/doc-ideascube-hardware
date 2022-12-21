@@ -6,8 +6,8 @@ title: Specification
 |------------------------------------|------------|
 | Connectivité Wifi | 802.11ac (5ghz) & 802.11n (2.4Ghz) |
 | Portée du réseau Wifi | 5Ghz : **10m**, 2.4Ghz: **30m** |
-| Capacités du réseau Wifi | ~10 à 15 connexions simlultannées pour du  streaming vidéo, 30 en temps normal |
-| Stockage | 16GB eMMC pour le système d'exploitation + disque dur de 500GB pour les données |
+| Capacités du réseau Wifi | ~10 à 15 connexions simultanées pour du  streaming vidéo, 30 en temps normal |
+| Stockage | 16Go eMMC pour le système d'exploitation + disque dur de 500Go pour les données (`WD Blue WD5000LPCX`) |
 | Batterie | Jusque 7 heures d'autonomie. 5-6 heures de chargement (lorsque le serveur est éteint). |
 | Dimensions & poids | 208.7 * 184.5 * 30.5 mm, poids : 655g |
 | Processeur | Intel SOC Celeron : N3350/N3450 |

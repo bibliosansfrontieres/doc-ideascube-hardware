@@ -7,7 +7,7 @@ title: Specification
 | Wifi connectivity | 802.11ac (5ghz) & 802.11n (2.4Ghz) |
 | Wifi coverage | 5Ghz : **10m**, 2.4Ghz: **30m** |
 | Wifi capability | ~10 to 15 concurrent connexion with video streaming, 30 with normal browsing |
-| Storage | 16GB eMMC for operating system + 500GB hard drive storage |
+| Storage | 16GB eMMC for operating system + 500GB hard drive storage (`WD Blue WD5000LPCX`) |
 | Battery life | Up to 7 hours. 5-6 hours of charge (if powered off). Available from [Ideascube software backoffice](http://ideascube.doc.bibliosansfrontieres.org/en/administrateur) |
 | Dimensions & weight | 208.7 * 184.5 * 30.5 mm, weight : 655g |
 | Processor | Intel SOC Celeron : N3350/N3450 |
