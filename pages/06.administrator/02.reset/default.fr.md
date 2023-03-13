@@ -7,7 +7,7 @@ Il peut être utile de réinitialiser l'appareil à un moment donné (système d
 Deux méthodes sont disponibles pour réinitialiser l'appareil : la réinitialisation software et la réinitialisation hardware.
 
 ## Réinitialisation douce
-Le [script bash suivant](https://gitlab.com/bibliosansfrontieres/olip-bsf/cap/factory-config/-/blob/master/reset.sh) réinitialise "en douceur" l'appareil. Ce script ne peut réparer aucun système d'exploitation endommagé.
+Le [script bash suivant](https://gitlab.com/bibliosansfrontieres/olip/devices/cap/factory-config/-/blob/master/reset.sh) réinitialise "en douceur" l'appareil. Ce script ne peut réparer aucun système d'exploitation endommagé.
 
 Il effectuera l'action suivante :
 
@@ -20,7 +20,7 @@ Il effectuera l'action suivante :
 
 Il doit être exécuté, **en root**, de cette façon :
 ```
-curl -sfL https://gitlab.com/bibliosansfrontieres/olip-bsf/cap/factory-config/-/raw/master/reset.sh | bash
+curl -sfL https://gitlab.com/bibliosansfrontieres/olip/devices/cap/factory-config/-/raw/master/reset.sh | bash
 ```
 
 ## Remise à zéro

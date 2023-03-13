@@ -8,7 +8,7 @@ Two method are available to reset the device : soft reset and hard reset
 
 ## Soft reset
 
-The [following bash script](https://gitlab.com/bibliosansfrontieres/olip-bsf/cap/factory-config/-/blob/master/reset.sh) reset "softly" the device. This script can not fix any damaged operating system.
+The [following bash script](https://gitlab.com/bibliosansfrontieres/olip/devices/cap/factory-config/-/blob/master/reset.sh) reset "softly" the device. This script can not fix any damaged operating system.
 
 It will perform the following action : 
 
@@ -21,7 +21,7 @@ It will perform the following action :
 
 It must be executed, **as root**, this way :
 ```
-curl -sfL https://gitlab.com/bibliosansfrontieres/olip-bsf/cap/factory-config/-/raw/master/reset.sh | bash
+curl -sfL https://gitlab.com/bibliosansfrontieres/olip/devices/cap/factory-config/-/raw/master/reset.sh | bash
 ```
 
 ## Hard reset
