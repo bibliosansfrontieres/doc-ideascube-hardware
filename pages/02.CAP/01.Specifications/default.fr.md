@@ -21,5 +21,5 @@ title: Specification
 
 | Signalétique & boutons | Description |
 |--|--|
-|![](cap_connector.png)| 1. Voyant lumineux du hostspot Wifi<br />2. Voyant lumineux de l'alimentation<br />3. Bouton marche / arrêt (Pression de 4s pour allumer, pression de 1s pour lancer le processus d'extinction)<br />4. I/O cabnit<br />5. Indicateur lumineux de l'alimentation<br />6. BRanchement d e l'alimentation<br />7. Port RJ45 pour connection réseau<br />8. Port non utilisé<br />9. Port USB 3.0<br />9. Port non utilisé<br /> |
+|![](../cap_connector.png)| 1. Voyant lumineux du hostspot Wifi<br />2. Voyant lumineux de l'alimentation<br />3. Bouton marche / arrêt (Pression de 4s pour allumer, pression de 1s pour lancer le processus d'extinction)<br />4. I/O cabnit<br />5. Indicateur lumineux de l'alimentation<br />6. BRanchement d e l'alimentation<br />7. Port RJ45 pour connection réseau<br />8. Port non utilisé<br />9. Port USB 3.0<br />9. Port non utilisé<br /> |
 

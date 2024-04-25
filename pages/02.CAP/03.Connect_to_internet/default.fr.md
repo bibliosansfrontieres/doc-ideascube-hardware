@@ -9,4 +9,4 @@ La connexion internet permet la mise à jour logicielle de l'Ideascube et des co
 
 À ce stade, les LED autour du port Ethernet doivent être allumée (la jaune et la verte).
 
-![](carter_connector.png)
+![](../carter_connector.png)

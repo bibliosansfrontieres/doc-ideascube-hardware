@@ -11,4 +11,4 @@ It also allows for remote supprot from the BSF tech team.
 
 At this point, the LEDs around the ethernet port should be lit (both green and yellow).
 
-![](cap_connector.png)
+![](../cap_connector.png)
