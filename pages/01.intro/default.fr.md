@@ -13,3 +13,5 @@ De 2020 à 2023
 ## Carter
 
 À partir de 2023
+
+![](ideascube-carter-400x300.png)
