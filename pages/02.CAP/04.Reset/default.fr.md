@@ -20,7 +20,7 @@ Il effectuera l'action suivante :
 
 Il doit être exécuté, **en root**, de cette façon :
 ```
-curl -sfL https://gitlab.com/bibliosansfrontieres/olip/devices/cap/factory-config/-/raw/master/reset.sh | bash
+curl -sfL https://gitlab.com/bibliosansfrontieres/olip/devices/cap/factory-config/-/raw/master/reset.sh | bash -
 ```
 
 ## Remise à zéro

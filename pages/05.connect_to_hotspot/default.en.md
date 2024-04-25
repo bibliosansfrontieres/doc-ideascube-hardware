@@ -15,7 +15,7 @@ media_order: qrcode-ideascubeio.png
 4. Tap one of the wifi network available idc-xxx-xxx-xxx-2.4Ghz or idc-xxx-xxx-xxx-5Ghz
 5. Once connected the captive portal will redirect you towards the Ideascube software landing page.
 6. If for any reason this page close, open your favorite web browser
-   * In the URL bar : write down http://ideascube, http://ideasbox or http://ideascube.io depending on your device
+   * In the URL bar: write down http://ideascube.io
    * Click the star to save the URL as favorite for future connexion
 
 **Tip:** You can also swipe down on your screen to get to Wi-Fi settings
@@ -26,9 +26,6 @@ For faster connexion you can flash these QR Code.
 
 > > > > > You can download [Barcode Scanner app](https://f-droid.org/repo/com.google.zxing.client.android_108.apk) to flash these QR Code. [Details of the app](https://f-droid.org/fr/packages/com.google.zxing.client.android/)
 
-http://ideasbox
-![](assets/ideasbox.png) 
-
 http://ideascube.io
 ![](qrcode-ideascubeio.png)
 
@@ -36,7 +33,7 @@ http://ideascube.io
 
 1. Enable wifi from button key on your keybord or from wifi icon on your task bar.
 2. Select the appropriate wifi network idc-xxx-xxx-xxx-2.4Ghz or idc-xxx-xxx-xxx-5Ghz. Use **5Ghz** network if you can see the Ideascube hardware (usually mounted on a wall or laying on a table), otherwise use **2.4Ghz** network
-3. Open your favorite web browser and type the following URL : http://ideascube or http://ideasbox
+3. Open your favorite web browser and type the following URL : http://ideascube.io
 4. Save the website as favorite for future connexion
 
-![](assets/wifi-list.png)
+![](wifi-list.png)
